@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZedGraphDemo", "ZedGraphDemo\ZedGraphDemo.csproj", "{ADD60FBB-00FD-403B-9C74-038BD4034351}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADD60FBB-00FD-403B-9C74-038BD4034351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADD60FBB-00FD-403B-9C74-038BD4034351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADD60FBB-00FD-403B-9C74-038BD4034351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADD60FBB-00FD-403B-9C74-038BD4034351}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6316D90-8247-4FB5-B78E-B7031A5456BA}
+	EndGlobalSection
+EndGlobal
